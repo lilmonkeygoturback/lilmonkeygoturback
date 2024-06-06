@@ -1,9 +1,9 @@
 <a href="https://rishavchanda.io">
-  <img src="https://64.media.tumblr.com/8d79a89060394c6d62a9cd24bb4436f8/e53025217ad254ee-bb/s2048x3072/ab06ee8cab746dccbdde9cac7e1fb9e6e4e86a8e.gif" alt="MasterHead" style="width: 300%;">
+  <img src="https://64.media.tumblr.com/6e9e5b0a100de415a7cd3e6cca9f3dc4/7caa705703f3f2dc-3d/s1280x1920/525bf1aeac8fb00dff3a3ec26aa238fa341e9f50.gif" alt="MasterHead" style="width: 300%;">
 </a>
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">A passionate second-year CS student from Vietnam</h3>
-<img align="right" alt="wallpaper" width="400" src="https://66.media.tumblr.com/60efabf5fd76984fd6f4c6300d72c6e1/f05d4c5c4b2eab41-53/s1280x1920/2b25fc3c75472187d570269ab0f9f12df737d7b4.gif">
+<img align="right" alt="wallpaper" width="400" src="https://64.media.tumblr.com/8d79a89060394c6d62a9cd24bb4436f8/e53025217ad254ee-bb/s2048x3072/ab06ee8cab746dccbdde9cac7e1fb9e6e4e86a8e.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lilmonkeygoturback&label=Profile%20views&color=0e75b6&style=flat" alt="lilmonkeygoturback" />
