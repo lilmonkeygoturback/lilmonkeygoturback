@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=lilmonkeygoturback&label=Profile%20views&color=0e75b6&style=flat" alt="lilmonkeygoturback" />
 </p>
 
-<p>🔭 I’m currently working on <a href="https://github.com/lilmonkeygoturback/ResumeWebsite">A portfolio website</a></p>
+<p>🔭 I’m currently working on <a href="https://github.com/lilmonkeygoturback/Personal-Website">A portfolio website</a></p>
 <p>🌱 I’m currently learning <strong>Java Swing, MySQL, etc.</strong></p>
 <p>📫 How to reach me <strong>quantruong0307@gmail.com</strong></p>
 <p>⚡ Fun fact <strong>I share a passionate hobby about billiards (pool, 3 cushion) with my father and my brother.</strong></p>
