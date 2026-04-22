@@ -1,73 +1,70 @@
-<a href="https://rishavchanda.io">
-  <img src="https://64.media.tumblr.com/6e9e5b0a100de415a7cd3e6cca9f3dc4/7caa705703f3f2dc-3d/s1280x1920/525bf1aeac8fb00dff3a3ec26aa238fa341e9f50.gif" alt="MasterHead" style="width: 300%;">
-</a>
-<h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">A passionate third-year CS student from Vietnam</h3>
-<img align="right" alt="wallpaper" width="400" src="https://64.media.tumblr.com/8d79a89060394c6d62a9cd24bb4436f8/e53025217ad254ee-bb/s2048x3072/ab06ee8cab746dccbdde9cac7e1fb9e6e4e86a8e.gif">
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://64.media.tumblr.com/6e9e5b0a100de415a7cd3e6cca9f3dc4/7caa705703f3f2dc-3d/s1280x1920/525bf1aeac8fb00dff3a3ec26aa238fa341e9f50.gif" alt="MasterHead" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 10px;">
+  </a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lilmonkeygoturback&label=Profile%20views&color=0e75b6&style=flat" alt="lilmonkeygoturback" />
-</p>
+  <h1>Hi 👋, I'm Quan</h1>
+  <h3>A passionate fourth-year CS student from Vietnam 🇻🇳</h3>
 
-<p>🔭 I’m currently working on <a href="https://github.com/lilmonkeygoturback/Personal-Website">A portfolio website</a></p>
-<p>🌱 I’m currently learning <strong>Typescript, Deno, etc.</strong></p>
-<p>📫 How to reach me <strong>quantruong0307@gmail.com</strong></p>
-<p>⚡ Fun fact <strong>I share a passionate hobby about billiards (pool, 3 cushion) with my father and my brother.</strong></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=lilmonkeygoturback&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on fine-tuning speech-to-text models and building my <strong><a href="https://github.com/lilmonkeygoturback/Personal-Website">Portfolio Website</a></strong>.</li>
+        <li>🌱 I’m currently deepening my knowledge in <strong>Artificial Intelligence, NLP, and Computer Vision</strong>, alongside Typescript and Deno.</li>
+        <li>📫 How to reach me: <strong>quantruong0307@gmail.com</strong></li>
+        <li>⚡ Fun fact: I share a passionate hobby about billiards (pool, 3-cushion) with my father and brother 🎱.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top" style="border: none;">
+      <img alt="coding-gif" width="250" src="https://64.media.tumblr.com/8d79a89060394c6d62a9cd24bb4436f8/e53025217ad254ee-bb/s2048x3072/ab06ee8cab746dccbdde9cac7e1fb9e6e4e86a8e.gif" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/hong-quan-868783221" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hong-quan-868783221" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/17592644" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17592644" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
   <a href="https://fb.com/hquan7777" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quan7777" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/_hquannnnn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hquannnnn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.hackerearth.com/@itcsiu22275" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@itcsiu22275" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lilmonkeygoturback&show_icons=true&locale=en" alt="lilmonkeygoturback" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilmonkeygoturback&" alt="lilmonkeygoturback" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lilmonkeygoturback&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilmonkeygoturback&theme=tokyonight" alt="GitHub Streak" height="160" />
+</div>
